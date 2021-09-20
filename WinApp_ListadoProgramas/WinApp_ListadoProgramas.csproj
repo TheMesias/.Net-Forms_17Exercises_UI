@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F64FA2D0-08C8-4505-A257-1607A5EA4159}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WinApp_ListadoProgramas</RootNamespace>
+    <AssemblyName>WinApp_ListadoProgramas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clcalculos.cs" />
+    <Compile Include="ClCalFibonacci.cs" />
+    <Compile Include="clCantidadNumeros.cs" />
+    <Compile Include="clHipotenusa.cs" />
+    <Compile Include="clMayor.cs" />
+    <Compile Include="clPiramide.cs" />
+    <Compile Include="ClSS.cs" />
+    <Compile Include="clValidacion.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCalculadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalculadora.Designer.cs">
+      <DependentUpon>FormCalculadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCantidad_Numeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCantidad_Numeros.Designer.cs">
+      <DependentUpon>FormCantidad_Numeros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCelsius.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCelsius.Designer.cs">
+      <DependentUpon>FormCelsius.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordenadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordenadas.Designer.cs">
+      <DependentUpon>FormCoordenadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFibonacci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFibonacci.Designer.cs">
+      <DependentUpon>FormFibonacci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHipotenusa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHipotenusa.Designer.cs">
+      <DependentUpon>FormHipotenusa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMayor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMayor.Designer.cs">
+      <DependentUpon>FormMayor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPotencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPotencia.Designer.cs">
+      <DependentUpon>FormPotencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSegundos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSegundos.Designer.cs">
+      <DependentUpon>FormSegundos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTipoNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTipoNumeros.Designer.cs">
+      <DependentUpon>FormTipoNumeros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVolumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVolumen.Designer.cs">
+      <DependentUpon>FormVolumen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCalculadora.resx">
+      <DependentUpon>FormCalculadora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCantidad_Numeros.resx">
+      <DependentUpon>FormCantidad_Numeros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCelsius.resx">
+      <DependentUpon>FormCelsius.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordenadas.resx">
+      <DependentUpon>FormCoordenadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFibonacci.resx">
+      <DependentUpon>FormFibonacci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHipotenusa.resx">
+      <DependentUpon>FormHipotenusa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMayor.resx">
+      <DependentUpon>FormMayor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPotencia.resx">
+      <DependentUpon>FormPotencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSegundos.resx">
+      <DependentUpon>FormSegundos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTipoNumeros.resx">
+      <DependentUpon>FormTipoNumeros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVolumen.resx">
+      <DependentUpon>FormVolumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Juego\Juego\Juego.csproj">
+      <Project>{5228e136-3b82-434f-845d-96a43b77097e}</Project>
+      <Name>Juego</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinAppCompraInteractiva\WinAppCompraInteractiva\WinAppCompraInteractiva.csproj">
+      <Project>{9e720622-9ee4-46db-b6bd-395ff55829c5}</Project>
+      <Name>WinAppCompraInteractiva</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinAppConversionTallas\WinAppConversionTallas.csproj">
+      <Project>{57314e4a-b3d8-4a84-ad2e-06fb03574a0c}</Project>
+      <Name>WinAppConversionTallas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinAppEditorTexto\WinAppEditorTexto.csproj">
+      <Project>{b546c760-4825-441a-bb24-92bc7fe750cf}</Project>
+      <Name>WinAppEditorTexto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinAppVotosPresi\WinAppVotosPresi.csproj">
+      <Project>{c81eb978-a25f-4e25-970c-fca7f4ae2c3e}</Project>
+      <Name>WinAppVotosPresi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Winapp_TextoVoz\Winapp_TextoVoz\Winapp_TextoVoz.csproj">
+      <Project>{0b3fbcae-d008-4ae4-96a6-4d93783c6b04}</Project>
+      <Name>Winapp_TextoVoz</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,29 @@
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.exe.config
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.exe
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.pdb
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csprojAssemblyReference.cache
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Form1.resources
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Properties.Resources.resources
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.GenerateResource.cache
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.CoreCompileInputs.cache
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.exe
+E:\asbat\Documents\5to Semestre\Aplicaciones\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.pdb
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csprojAssemblyReference.cache
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Form1.resources
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Properties.Resources.resources
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.GenerateResource.cache
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.CoreCompileInputs.cache
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.exe
+D:\Descargas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.pdb
+D:\Descargas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.exe.config
+D:\Descargas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.exe
+D:\Descargas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.pdb
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.dll.config
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.dll
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\bin\Debug\WinAppVotosPresi.pdb
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Form1.resources
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.Properties.Resources.resources
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.GenerateResource.cache
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.dll
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppVotosPresi\obj\Debug\WinAppVotosPresi.pdb

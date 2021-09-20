@@ -1,0 +1,30 @@
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.exe.config
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.exe
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.pdb
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csprojAssemblyReference.cache
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Form1.resources
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Properties.Resources.resources
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.GenerateResource.cache
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.exe
+C:\Users\USER\source\AplicacionesInformaticas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.pdb
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.exe.config
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.exe
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.pdb
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csprojAssemblyReference.cache
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Form1.resources
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Properties.Resources.resources
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.GenerateResource.cache
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.CoreCompileInputs.cache
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.exe
+D:\Descargas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.pdb
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.dll.config
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.dll
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\bin\Debug\WinAppCompraInteractiva.pdb
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Form1.resources
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.Properties.Resources.resources
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.GenerateResource.cache
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.dll
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.pdb
+D:\Programacion\Proyectos C#\V\WinApp_ListadoProgramas\WinAppCompraInteractiva\WinAppCompraInteractiva\obj\Debug\WinAppCompraInteractiva.csproj.AssemblyReference.cache
